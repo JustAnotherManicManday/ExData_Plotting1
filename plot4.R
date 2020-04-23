@@ -22,7 +22,7 @@ par(mfcol = c(2, 2))
 
 
 plot(datetime, subdata1$Global_active_power, 
-     ylab = "Global Active Power (kilowatts)",
+     ylab = "Global Active Power",
      xlab = "",
      type = "l")
 
